@@ -8,4 +8,4 @@ This project focuses on analyzing and visualizing a dataset of coffee sales to u
 ## Data Sources
 The data was taken from https://www.kaggle.com/datasets/ihelon/coffee-sales
 
-# Data Cleaning Process
+## Data Cleaning Process
