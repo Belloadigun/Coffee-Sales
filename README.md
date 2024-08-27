@@ -35,6 +35,6 @@ The total revenue generated was $39,657.
 ![pr](https://github.com/user-attachments/assets/c9ea1af0-dcd6-4cc4-bbac-daef6b457ac3)
 
 
-1. To improve on the quality of the "Espresso" coffee perhaps the low sales is a result of it's quality.
+1. To improve on the quality of the "Espresso" coffee.
   
-2. To encourage customers to pay with card to save the business the logistics that comes with cash.
+2. To encourage all customers to pay with card.
