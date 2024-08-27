@@ -10,6 +10,7 @@ The data was taken from https://www.kaggle.com/datasets/ihelon/coffee-sales
 
 ## Data Processing
 This process involved assessment of the data for the presence of structural anomalies and subsequent refinement of the data for visualization.  However, it is noteworthy that no such issues were detected within the dataset.
+
 The preview of the dataset is seen below
 ![Proj 1 0](https://github.com/user-attachments/assets/d1d46005-1c6e-48e3-85cb-8955f40bd341)
 
